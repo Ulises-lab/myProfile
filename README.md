@@ -1,13 +1,12 @@
 # Hello my name is **_Ulises_**
----
 
 
 ## About me:
 
-I'm a engenier in Telecomunications with 3+ years of experience in Linux server administration.
-I have to work with tools like NGINX like a server, Graylog and Nagios to monitoring servers and logs, Jenkins, Git and Docker for CI/CD, Pfsense to firewall and VPN, and many more...
+I'm a enthusiastic person with 3+ years of experience in Linux server administration.
 
 
-You can find my Linkedin profile here: 
-    
+I have worked with tools, for example NGINX as a server, Graylog and Nagios to monitoring servers and logs, Jenkins, Git and Docker for CI/CD, Pfsense as a firewall and VPN, and many more...
+
+
 
